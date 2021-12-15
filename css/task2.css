@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+table {
+    margin: 30px auto;
+    font-size: 22px;
+    border-collapse: collapse;
+}
+
+table, tr, td {
+    border: 1px solid black;
+}
+
+td {
+    padding: 10px;
+}
